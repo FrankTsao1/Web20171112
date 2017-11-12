@@ -1,0 +1,165 @@
+.abgne_product_arrow_silder_A00 {
+     max-width: 450px;
+     max-height: 250px;
+     min-width: 200px;
+     min-height: 300px;
+     position: relative;
+     border: 1px solid #ccc;
+     overflow:hidden;
+
+ }
+.abgne_product_arrow_silder_A00 ul, .abgne_product_arrow_silder_A00 ul li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.prev {
+    background:url(../../assets/images/gallery/prev.gif) no-repeat;
+    width: 38px;
+    height: 48px;
+    position: absolute;
+    left: -48px;	/* 先藏在左邊 */
+    top: 101px;		/* (區塊高-圖片高) / 2 */
+    z-index: 100;
+}
+.next {
+    background:url(../../assets/images/gallery/next.gif) no-repeat;
+    width: 38px;
+    height: 48px;
+    position: absolute;
+    right: -48px;	/* 先藏在右邊 */
+    top: 101px;		/* (區塊高-圖片高) / 2 */
+    z-index:100;
+}
+.abgne_product_arrow_silder_A00 ul li {
+    position: absolute;
+    z-index: 1;
+}
+.abgne_product_arrow_silder_A00 ul li.selected {
+    z-index: 99;
+}
+
+.abgne_product_arrow_silder_A01 {
+    max-width: 450px;
+    max-height: 250px;
+    min-width: 200px;
+    min-height: 300px;
+    position: relative;
+    border: 1px solid #ccc;
+    overflow:hidden;
+
+}
+.abgne_product_arrow_silder_A01 ul, .abgne_product_arrow_silder_A01 ul li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.prev {
+    background:url(../../assets/images/gallery/prev.gif) no-repeat;
+    width: 38px;
+    height: 48px;
+    position: absolute;
+    left: -48px;	/* 先藏在左邊 */
+    top: 101px;		/* (區塊高-圖片高) / 2 */
+    z-index: 100;
+}
+.next {
+    background:url(../../assets/images/gallery/next.gif) no-repeat;
+    width: 38px;
+    height: 48px;
+    position: absolute;
+    right: -48px;	/* 先藏在右邊 */
+    top: 101px;		/* (區塊高-圖片高) / 2 */
+    z-index:100;
+}
+.abgne_product_arrow_silder_A01 ul li {
+    position: absolute;
+    z-index: 1;
+}
+.abgne_product_arrow_silder_A01 ul li.selected {
+    z-index: 99;
+}
+
+
+.abgne_product_arrow_silder_A02 {
+    max-width: 450px;
+    max-height: 250px;
+    min-width: 200px;
+    min-height: 300px;
+    position: relative;
+    border: 1px solid #ccc;
+    overflow:hidden;
+
+}
+.abgne_product_arrow_silder_A02 ul, .abgne_product_arrow_silder_A02 ul li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.prev {
+    background:url(../../assets/images/gallery/prev.gif) no-repeat;
+    width: 38px;
+    height: 48px;
+    position: absolute;
+    left: -48px;	/* 先藏在左邊 */
+    top: 101px;		/* (區塊高-圖片高) / 2 */
+    z-index: 100;
+}
+.next {
+    background:url(../../assets/images/gallery/next.gif) no-repeat;
+    width: 38px;
+    height: 48px;
+    position: absolute;
+    right: -48px;	/* 先藏在右邊 */
+    top: 101px;		/* (區塊高-圖片高) / 2 */
+    z-index:100;
+}
+.abgne_product_arrow_silder_A02 ul li {
+    position: absolute;
+    z-index: 1;
+}
+.abgne_product_arrow_silder_A02 ul li.selected {
+    z-index: 99;
+}
+
+
+.abgne_product_arrow_silder_A03 {
+    max-width: 450px;
+    max-height: 250px;
+    min-width: 200px;
+    min-height: 300px;
+    position: relative;
+    border: 1px solid #ccc;
+    overflow:hidden;
+
+}
+.abgne_product_arrow_silder_A03 ul, .abgne_product_arrow_silder_A03 ul li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.prev {
+    background:url(../../assets/images/gallery/prev.gif) no-repeat;
+    width: 38px;
+    height: 48px;
+    position: absolute;
+    left: -48px;	/* 先藏在左邊 */
+    top: 101px;		/* (區塊高-圖片高) / 2 */
+    z-index: 100;
+}
+.next {
+    background:url(../../assets/images/gallery/next.gif) no-repeat;
+    width: 38px;
+    height: 48px;
+    position: absolute;
+    right: -48px;	/* 先藏在右邊 */
+    top: 101px;		/* (區塊高-圖片高) / 2 */
+    z-index:100;
+}
+.abgne_product_arrow_silder_A03 ul li {
+    position: absolute;
+    z-index: 1;
+}
+.abgne_product_arrow_silder_A03 ul li.selected {
+    z-index: 99;
+}

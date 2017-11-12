@@ -1,0 +1,24 @@
+.popup{
+    background: #FFF;
+    border-radius: 10px;
+    box-shadow: 0 0 25px 5px #999;
+    color: #111;
+    width: 80%; /* 隨著螢幕變大變小 */
+    min-width: 200px;
+    min-height: 300px;
+    padding: 20px;
+    display: none; /*先關掉 先不顯示*/
+}
+.bClose{
+    background: #2b91af;
+    border-radius: 7px;
+    box-shadow: 0 2px 3px rgba(0,0,0,0.3);
+    color: #FFF;
+    font: bold 150% sans-serif;
+    padding:  2px 6px 2px;
+    cursor: pointer;
+    display: block;
+    position: absolute; /* 配合 top 與 right 定位 */
+    right: 9px;
+    top: 9px;
+}

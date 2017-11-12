@@ -1,0 +1,13 @@
+#gotop {
+    display: none; /*先關掉 先不顯示*/
+    position: fixed;
+    border-radius: 50px;
+    right: 20px;
+    bottom: 30px;
+    padding: 10px 16px;
+    font-size: 25px;
+    background: rgba(21, 3, 3, 0.36);
+    color: #e4fffc;
+    cursor: pointer;
+    z-index: 1000;
+}
